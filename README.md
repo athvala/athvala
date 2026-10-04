@@ -24,7 +24,7 @@ self-hosted on a VPS I provision myself.
 
 ---
 
-Founder · Ljubljana · Barcelona · Paris · currently based in Barcelona
+Founder · Ljubljana · Barcelona · Paris · New York City
 Slovenian, English, Spanish
 
 [Website](https://athvala.github.io) ·
