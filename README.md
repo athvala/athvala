@@ -9,7 +9,7 @@ my own crews. Live at Eagle Events with ~200 workers.
   and 60+ events a year. A CEO I hired runs it day to day.
 - **Family business** (2024): ran my father's 10-person, $1.3M electronics manufacturer
   for five months while he was ill.
-- **[Simplified AI](https://thesimplified.io)** (2025): AI agents and automation for
+- **[Simplified AI](https://thesimplified.io)** (Sept 2024): AI agents and automation for
   enterprise, co-founded with David Trafela.
 
 ---
